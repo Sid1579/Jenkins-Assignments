@@ -1,0 +1,26 @@
+# Jenkins Installation Steps
+
+## Prerequisites
+- Ensure Docker is installed on your machine.
+
+## Installation Steps
+1. **Pull the Jenkins Image**:
+   Open your terminal and run:
+ 
+
+2. **Run Jenkins in Docker**:
+Start Jenkins with a non-conflicting port (e.g., 8081):
+
+
+3. **Access Jenkins**:
+Open your web browser and navigate to:
+
+
+
+4. **Get Initial Admin Password**:
+Execute the following command to retrieve the password:
+
+
+5. **Complete the Setup**:
+- Paste the retrieved password into the setup wizard.
+- Follow the prompts to customize Jenkins and create an admin user.
